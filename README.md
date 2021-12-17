@@ -2,13 +2,13 @@
 
 ![](https://img.shields.io/github/issues/uestcer/autofill.js?style=for-the-badge)
 
-# autofill.js
+# autofill.js :white_check_mark:
 
 </div>
 
-## 脚本列表
-
 > Just toy `JS` pieces.
+
+## 脚本列表
 
 * [评教脚本](./scripts/评教脚本/README.md) (含教材评价和学生评教)
 * [中国大学 MOOC 互评脚本](./scripts/中国大学 MOOC 互评脚本/README.md)
